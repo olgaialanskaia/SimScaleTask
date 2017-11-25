@@ -1,4 +1,4 @@
-#API tests with Rest-assured
+# API tests with Rest-assured
 
 **Task**
 
